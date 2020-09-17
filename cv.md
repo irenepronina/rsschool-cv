@@ -30,3 +30,11 @@ const whoIsThisHouseToStarks = (houseName) => {
 * [Code Basics JavaScript](https://ru.code-basics.com/languages/javascript)
 * [SoloLearn HTML](https://www.sololearn.com/Play/HTML)
 * [SoloLearn CSS](https://www.sololearn.com/Play/CSS)
+## Education 
+ **Higher education:** Minsk State Linguistic University  
+   **Secondary special education:** Gomel State Colledge of arts
+## English
+- Speaking: B1+
+- Grammar: B1+
+- Listening: B2
+- Reading: C1
