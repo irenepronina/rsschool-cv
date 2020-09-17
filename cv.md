@@ -11,3 +11,22 @@ _My priorities are to get as much knowledge and practice in Web Development as p
 - Git
 - VSCode / Sublime Text 3 / Notepad++
 - Figma
+## Code examples
+``` js
+const whoIsThisHouseToStarks = (houseName) => {
+  if (houseName === 'Karstark' || houseName === 'Tally') {
+    return 'friend';
+  } else if (houseName === 'Lannister' || houseName === 'Frey') {
+    return 'enemy';
+  }
+
+  return 'neutral';
+};
+```
+## Experience
+### Online courses
+* [Code Basics HTML](https://ru.code-basics.com/languages/html)
+* [Code Basics CSS](https://ru.code-basics.com/languages/css) 
+* [Code Basics JavaScript](https://ru.code-basics.com/languages/javascript)
+* [SoloLearn HTML](https://www.sololearn.com/Play/HTML)
+* [SoloLearn CSS](https://www.sololearn.com/Play/CSS)
