@@ -1,0 +1,41 @@
+body {
+  margin: 0 0 0 20px;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+section {
+  display: block;
+}
+img {
+  width: 200px;
+}
+h1 {
+  font-weight: 900;
+  text-transform: uppercase;
+  color: blueviolet;
+}
+
+h2 {
+  color: rebeccapurple;
+}
+
+h3 {
+  color: rgb(165, 89, 209);
+}
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+a:hover {
+  color: rosybrown;
+}
+
+.highlight {
+  border: 5px solid rebeccapurple;
+  background-color: silver;
+  padding-top: 10px;
+  width: 50em;
+}
